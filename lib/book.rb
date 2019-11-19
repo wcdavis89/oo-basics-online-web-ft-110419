@@ -6,7 +6,7 @@ class Book
     @title = title
   end
   def title
-    @title 
+    p @title 
   end
 end
 

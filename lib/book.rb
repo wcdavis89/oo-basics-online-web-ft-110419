@@ -1,5 +1,5 @@
 class Book
-  def initialize9
+  def initialize
     @name
   end
   def name=(name)
